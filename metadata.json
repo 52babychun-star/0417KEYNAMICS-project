@@ -1,0 +1,8 @@
+{
+  "name": "Keynamics Visionary",
+  "description": "A high-performance conceptual design studio for the next generation of futuristic keytars. Features AI-powered 4K ultra-HD visionary renderings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "gemini-image"
+  ]
+}
